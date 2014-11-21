@@ -1,0 +1,37 @@
+{
+  "name": "microphone_visualizer",
+  "version": "0.0.0",
+  "description": "http://app.makky.io/microphone_visualizer",
+  "main": "",
+  "dependencies": {
+    "bower": "^1.3.9",
+    "coffee-script": "^1.7.1",
+    "gulp": "^3.8.7",
+    "gulp-autoprefixer": "0.0.8",
+    "gulp-clean": "^0.3.1",
+    "gulp-coffee": "^2.1.1",
+    "gulp-coffeelint": "^0.3.3",
+    "gulp-concat": "^2.3.4",
+    "gulp-connect-multi": "^1.0.8",
+    "gulp-jade": "^0.7.0",
+    "gulp-minify-css": "^0.3.7",
+    "gulp-plumber": "^0.6.4",
+    "gulp-ruby-sass": "^0.7.1",
+    "gulp-webserver": "^0.8.7",
+    "run-sequence": "^0.3.6"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/makky3939/microphone_visualizer.git"
+  },
+  "author": "@_Makky_",
+  "license": "",
+  "bugs": {
+    "url": "https://github.com/makky3939/microphone_visualizer/issues"
+  },
+  "homepage": "https://github.com/makky3939/microphone_visualizer"
+}
